@@ -1,0 +1,2 @@
+ps.bat run
+pause
