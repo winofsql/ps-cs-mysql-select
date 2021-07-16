@@ -2,7 +2,7 @@ using System;
 using System.Data.Odbc;
 
 public class Program {
-    public static void Main(string[] args)
+    public static void Main()
     {
 
         OdbcConnection myCon = CreateConnection();
